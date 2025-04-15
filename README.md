@@ -5,7 +5,7 @@ I build modern web & mobile apps — clean, scalable, and sometimes magical ✨
 
 ---
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" align="right" />
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400" align="right" />
 
 ### 🛠 Tech I Use
 - **Languages:** C#, JavaScript, TypeScript, HTML, CSS  

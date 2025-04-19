@@ -24,7 +24,6 @@ I build modern web & mobile apps — clean, scalable, and sometimes magical ✨
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmaetogonon&layout=compact&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jmaetogonon&show_icons=true&theme=default&hide_title=true" />
 </div>
 
 ---

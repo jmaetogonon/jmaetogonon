@@ -27,7 +27,7 @@ I build modern web & mobile apps — clean, scalable, and sometimes magical ✨
 </div>
 
 ---
-
+[Try Me! 🎹](https://jmaetogonon.github.io/drum-kit/)  •  [Try me too! 🕹️](https://jmaetogonon.github.io/simon-game/)
 ### 👋 Connect with Me
 
 [GitHub](https://github.com/jmaetogonon) • [LinkedIn](https://www.linkedin.com/in/jochelle-mae-mabasa-37aa2224a/)

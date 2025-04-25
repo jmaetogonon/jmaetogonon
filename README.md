@@ -1,4 +1,4 @@
-# Hi there, I'm Jochelle Mae 👋
+# Hi there, I'm Mae 👋
 
 💻 **Fullstack Developer** | ⚙️ **.NET MAUI Mage**  
 I build modern web & mobile apps — clean, scalable, and sometimes magical ✨

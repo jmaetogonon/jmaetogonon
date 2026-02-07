@@ -30,7 +30,7 @@ I build modern web & mobile apps — clean, scalable, and sometimes magical ✨
 ### 📊 GitHub Stats & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmaetogonon&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmaetogonon&layout=compact&theme=default&cache_seconds=1800" />
 </div>
 
 ---

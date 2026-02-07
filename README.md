@@ -1,9 +1,13 @@
 # Hi there, I'm Mae 👋
 
-💻 **Fullstack Developer** | ⚙️ **.NET MAUI Mage**  
+💻 **Fullstack Developer** | ⚙️ **.NET MAUI**  
 I build modern web & mobile apps — clean, scalable, and sometimes magical ✨
 
-[Portfolio](https://jmaetogonon.github.io/)
+---
+
+### 🌐 Portfolio
+🔗 **Check out my work:**  
+👉 https://jmaetogonon.github.io/
 
 ---
 
@@ -12,7 +16,8 @@ I build modern web & mobile apps — clean, scalable, and sometimes magical ✨
 ### 🛠 Tech I Use
 - **Languages:** C#, JavaScript, TypeScript, HTML, CSS  
 - **Frameworks:** .NET MAUI, ASP.NET Core, Blazor  
-- **Tools:** REST APIs, Postman, Swagger, Git, VS Code, Visual Studio  
+- **Tools & Practices:** REST APIs, Postman, Swagger, Git, VS Code, Visual Studio  
+- **Architecture & Patterns:** Clean Architecture, CQRS, MVVM  
 
 ---
 
